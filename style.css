@@ -185,7 +185,7 @@ footer {
  
 }
 .flip-card-back {
-  background: url('images/letter-bg.png'); /* Aesthetic letter-style background */
+  background: url('photos_and_videos/image.png'); /* Aesthetic letter-style background */
   background-size: cover;
   background-position: center;
   color: #3e2c2c;
@@ -213,7 +213,7 @@ footer {
 }
 
 .flip-card-back {
-  background: url('photos\ and\ videos/paper.jpeg'); /* Add your paper-texture background image here */
+  background: url('photos_and_videos/paper.jpeg'); /* Add your paper-texture background image here */
   background-size: cover;
   background-position: center;
   color: #3e2c2c;
